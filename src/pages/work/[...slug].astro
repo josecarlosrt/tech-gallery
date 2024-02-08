@@ -4,6 +4,7 @@ import { type CollectionEntry, getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
 import ContactCTA from '../../components/ContactCTA.astro';
+import CallToAction from '../../components/CallToAction.astro';
 import Hero from '../../components/Hero.astro';
 import Icon from '../../components/Icon.astro';
 import Pill from '../../components/Pill.astro';
@@ -48,6 +49,10 @@ const { Content } = await entry.render();
 					{entry.data.img && <img src={entry.data.img} alt={entry.data.img_alt || ''} />}
 					<div class="content">
 						<Content />
+						<CallToAction href="https://wa.me/33021705">
+							Apartar
+							<Icon icon="whatsapp-logo" size="1.2em" />
+						</CallToAction>
 					</div>
 				</div>
 			</main>

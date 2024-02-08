@@ -22,11 +22,9 @@ Diseño elegante y resistente.
 Disponible en varios colores.
 
 Condición:
-
 Nuevo - Em Caja
 
 Incluye:
-
 Cable de carga USB-C a USB-C.
 Adaptador de corriente.
 
