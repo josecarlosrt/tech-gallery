@@ -20,11 +20,11 @@ Cámara frontal de 20MP para selfies.
 Batería de 4520mAh con carga rápida de 67W.
 Diseño elegante y resistente.
 Disponible en varios colores.
+
 Condición:
 
-Impecable, como nuevo.
-Sin daños ni rasguños.
-Funciona perfectamente.
+Nuevo - Em Caja
+
 Incluye:
 
 Cable de carga USB-C a USB-C.
