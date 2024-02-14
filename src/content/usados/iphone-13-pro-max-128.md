@@ -1,17 +1,17 @@
 ---
-title: iPhone 13 Pro Max - 128 GB
+title: iPhone 13 Pro Max - Usasdos en Excelente Estado
 publishDate: 2023-02-02 00:00:00
-img: /assets/iphone-11-128gb.png
-img_alt: Imagen de iphone color negro
+img: /assets/iphone-13-usados.png
+img_alt: Imagen de iphones
 description: |
   iPhone 11 128GB Negro! En caja y listo para ti.
 tags:
   - iPhone
-  - Nuevo
+  - Semi Nuevos
   - iOS
 ---
 
-Características:
+## Telefonos Usados Disponibles:
 
 Pantalla Liquid Retina HD de 6.1 pulgadas.
 Potente chip A13 Bionic.
@@ -23,8 +23,9 @@ Resistente al agua y al polvo (IP68).
 Color negro elegante.
 128GB de almacenamiento.
 
-Condición:
-Nuevo - En Caja
+### Condición:
+9/10
+Como Nuevos
 
 Incluye:
 
