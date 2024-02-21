@@ -1,5 +1,5 @@
 ---
-title: iPhone 13 Pro Max - Usasdos en Excelente Estado
+title: iPhone 13 Pro Max - Usados
 publishDate: 2023-02-02 00:00:00
 img: /assets/iphone-13-usados.png
 img_alt: Imagen de iphones
