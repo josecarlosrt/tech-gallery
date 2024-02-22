@@ -32,4 +32,8 @@ Incluye:
 Cable de carga USB-C a Lightning.
 Adaptador de corriente.
 
-#### Precio: L.14,000.00
+### Precios
+#### 12 Pro Max 128 Granito L.16,500.00
+#### 13 Pro Max 128 Granito L.21,000.00
+#### 13 Pro Max 256 Dorado L.21,500.00
+#### 13 Pro Max 512 Blanco L.22,500.00

@@ -13,15 +13,12 @@ tags:
 
 Características:
 
-Pantalla Liquid Retina HD de 6.1 pulgadas.
-Potente chip A13 Bionic.
-Sistema de cámara dual de 12MP con gran angular y ultra gran angular.
-Modo retrato con efecto bokeh avanzado y control de profundidad.
-Cámara TrueDepth de 12MP para selfies y Face ID.
-Batería de larga duración.
-Resistente al agua y al polvo (IP68).
-Color negro elegante.
-128GB de almacenamiento.
+Pantalla líquida Retina HD
+Pantalla LCD multitáctil de 6,1 pulgadas (en diagonal) con tecnología IPS
+Resolución de 1792 por 828 píxeles a 326 ppp
+Relación de contraste de 1400:1 (típica)
+Pantalla de tono verdadero
+Amplia pantalla en color (P3)
 
 Condición:
 Como Nuevo!
