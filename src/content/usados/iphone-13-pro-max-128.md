@@ -23,17 +23,16 @@ Resistente al agua y al polvo (IP68).
 Color negro elegante.
 128GB de almacenamiento.
 
-### Condición:
+#### Condición:
 9/10
 Como Nuevos
 
-Incluye:
-
+#### Incluye:
 Cable de carga USB-C a Lightning.
 Adaptador de corriente.
 
-### Precios
-#### 12 Pro Max 128 Granito L.16,500.00
-#### 13 Pro Max 128 Granito L.21,000.00
-#### 13 Pro Max 256 Dorado L.21,500.00
-#### 13 Pro Max 512 Blanco L.22,500.00
+#### Precios:
+**12 Pro Max 128 Granito L.16,500.00**<br />
+**13 Pro Max 128 Granito L.21,000.00**<br />
+**13 Pro Max 256 Dorado L.21,500.00**<br />
+**13 Pro Max 512 Blanco L.22,500.00**<br />
