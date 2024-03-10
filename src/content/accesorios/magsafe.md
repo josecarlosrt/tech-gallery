@@ -1,6 +1,6 @@
 title: Cargador MagSafe Apple
 publishDate: 2023-02-02 00:00:00
-img: /assets/iphone-11-used-64gb.png
+img: /assets/magsafe.png
 img_alt: Imagen de caja de cargador
 description: |
   Compra un cable original para tu telefono.
