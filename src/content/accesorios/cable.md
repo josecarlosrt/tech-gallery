@@ -1,3 +1,4 @@
+---
 title: Cable USB C lightning - 1 metro
 publishDate: 2023-02-02 00:00:00
 img: /assets/usb-c.png
