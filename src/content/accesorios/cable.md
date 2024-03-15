@@ -20,4 +20,4 @@ También puedes usar este cable con tu adaptador de corriente USB-C de 18 W, 20 
 Condición:
 Nuevo!
 
-#### Precio: L.1,000.00
+#### Precio: Preguntar por Whatsapp!

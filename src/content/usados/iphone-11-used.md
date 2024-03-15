@@ -21,11 +21,11 @@ Pantalla de tono verdadero
 Amplia pantalla en color (P3)
 
 Condición:
-Como Nuevo!
+Nuevo En Caja!
 
 Incluye:
 
 Cable de carga USB-C a Lightning.
 Adaptador de corriente.
 
-#### Precio: L.14,000.00
+#### Precio: L.8,000.00

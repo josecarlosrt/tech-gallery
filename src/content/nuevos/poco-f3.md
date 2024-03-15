@@ -24,6 +24,9 @@ Disponible en varios colores.
 Condición:
 Nuevo - Em Caja
 
+Memoria:
+128gb
+
 Incluye:
 Cable de carga USB-C a USB-C.
 Adaptador de corriente.
