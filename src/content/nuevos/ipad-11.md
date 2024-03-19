@@ -29,4 +29,4 @@ Cable de carga USB-C a USB-C.
 Adaptador de corriente.
 ¡No te pierdas la oportunidad de tener este increíble iPad Pro!
 
-### Precio: Preguntar por Whatsapp!
+### Precio: L12,000.00

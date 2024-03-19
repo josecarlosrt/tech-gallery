@@ -27,4 +27,4 @@ Nuevo - en caja
 Cable de carga USB-C a USB-C.
 Adaptador de corriente.
 
-### Precio: Preguntar por Whatsapp!
+### Precio: L.4,300.00
